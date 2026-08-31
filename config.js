@@ -24,7 +24,7 @@ const defaultConfig = {
 
   relay: {
     enabled: false,
-    url: "wss://relay.deev.is/",
+    url: "wss://mc.smgoro.com/relay",
     code: "",
     username: null,
     rejectUnauthorized: true,
